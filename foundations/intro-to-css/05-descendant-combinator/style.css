@@ -1,0 +1,15 @@
+div p {
+  font-size: 20px;
+}
+
+div .text {
+  text-align: center;
+}
+
+body div p {
+  background-color: yellow;
+}
+
+.container .text {
+  color: red;
+}
